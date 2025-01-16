@@ -2,26 +2,26 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Katherine Grillaert
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's Degree
+      institution: University of Veterinary Medicine, Vienna Austria
+      year: 2021
       description:
-        - Description 1.
+        - Interdisciplinary Studies in Human-Animal Interactions
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
+    - title: Bach
       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
       year: 1900
       description:
@@ -31,9 +31,9 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Lecturer
+      institution: Caroll University
+      year: 2021
       description:
         - Description 1.
         - Description 2.
