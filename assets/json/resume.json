@@ -105,6 +105,7 @@
       "url": "https://forhumanity.center",
       "icon": "fa-solid fa-location-dot"
     },
+
     {
       "name": "Tech Steward",
       "date": "2024-03",
@@ -127,6 +128,7 @@
         "Privacy Protection"
       ]
     },
+
     {
       "name": "AI Governance",
       "level": "Master",
@@ -138,6 +140,7 @@
         "Impact Assessments"
       ]
     },
+
     {
       "name": "AI Systems Auditing",
       "level": "Master",
@@ -149,6 +152,7 @@
         "Fairness Audits"
       ]
     }, 
+
     {
       "name": "Technical Skills",
       "level": "Master",
@@ -161,7 +165,7 @@
         "Statistical Modeling"
       ]
     }
-  ]
+  ],
   
   "projects": [
     {
@@ -171,5 +175,5 @@
       "startDate": "2020-01",
       "url": "https://example.com"
     }
-  ]
+   ]
 }
