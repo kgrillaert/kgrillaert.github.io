@@ -376,9 +376,9 @@ ninja.data = [{
           description: "This is a participatory ethical tool that brings together stakeholders for an ethical assessment regarding behavioral euthanasia of companion animals. The tool faciliates a discussion of all relevant moral aspects. The tool is designed to guide, but not dictate, a moral outcome, and to reduce moral stress in animal caretakers including veterinarians, animal guardians, humane societies, and resuce organizations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "preterm birth prediction using All of Us data",
+            },},{id: "projects-the-silent-emergency-predicting-preterm-birth",
+          title: 'The Silent Emergency - Predicting Preterm Birth',
+          description: "Our project harnesses machine learning techniques to predict preterm birth using electronic health records. This data intersects with social determinants of health, reflecting some of the interactions contributing to preterm birth. Recognizing that under-representation in healthcare research perpetuates racial and ethnic health disparities, we take care to use diverse data to ensure equitable model performance across underrepresented populations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
