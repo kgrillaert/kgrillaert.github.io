@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 3
-display_categories: [ethics, work, fun]
+display_categories: [ethics & data]
 horizontal: false
 ---
 
