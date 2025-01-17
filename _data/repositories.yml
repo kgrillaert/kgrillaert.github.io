@@ -1,7 +1,7 @@
-github_users:
-  - 
-
+#github_users:
+#  - kgrillaert 
 repo_description_lines_max: 2
 
 github_repos:
-  - kgrillaert
+  - kgrillaert/ehg_tda
+  - kgrillaert/preterm_birth
