@@ -16,7 +16,7 @@
     {
       "name": "Ethoscope",
       "position": "Responible Technology Consultant",
-      "summary": "Collaborating with businesses to understand their needs."
+      "summary": "I empower organizations to analyze data, audit technology for fairness, and implement ethical, responsible governance."
     }
   ],
   "volunteer": [
@@ -25,7 +25,7 @@
       "position": "Contributor",
       "url": "https://forhumanity.center",
       "startDate": "2024-11",
-      "summary": "Drafting criteria for auditor schemes"
+      "summary": "I develop criteria for auditing schemes at ForHumanity, helping establish professional standards for responsible AI."
     }
   ],
   "education": [
@@ -52,48 +52,21 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "ForHumanity Certified Auditor EU AI Act",
+      "date": "2024-Dec",
+      "issuer": "ForHumanity",
+      "url": "https://forhumanity.center",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Tech Steward",
+      "date": "2024-Mar",
+      "issuer": "Tech Stewardship Practice Program",
+      "url": "https://techstewardship.com",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
+
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -117,59 +90,43 @@
       "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
+
   "skills": [
     {
-      "name": "Physics",
+      "name": "Tech Ethics",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Stakeholder Assessment and Engagement",
+        "AI Ethics",
+        "Ethical Decision-Making"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "AI Governance",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Responsible AI",
+        "Governance Frameworks",
+        "Risk Assessments",
+        "Impact Assessments"
+      ]
+    },
+    {
+      "name": "AI Systems Auditing",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Compliance and Assurance Auditing",
+        "Algorithmic Auditing",
+        "Ethical Decision-Making", 
+        "Fairness Audits"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+ 
+  
   "projects": [
     {
       "name": "Quantum Computing",
