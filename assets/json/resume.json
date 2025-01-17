@@ -99,11 +99,11 @@
 
   "certificates": [
     {
-      "name": "ForHumanity Certified Auditor EU AI Act",
+      "name": "Certified Auditor EU AI Act",
       "date": "2024-12",
       "issuer": "ForHumanity",
       "url": "https://forhumanity.center",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     },
 
     {
