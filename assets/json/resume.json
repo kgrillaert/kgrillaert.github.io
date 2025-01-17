@@ -16,8 +16,25 @@
     {
       "name": "Ethoscope",
       "position": "Responsible Technology Consultant",
+      "location": "Milwaukee, Wisconsin, USA",
       "startDate": "2024-03",
       "summary": "I empower organizations to analyze data, audit technology for fairness, and implement ethical, responsible governance."
+    }, 
+    {
+      "name": "Caroll University",
+      "position": "Lecturer",
+      "location": "Waukesha, Wisconsin, USA",
+      "startDate": "2021-09",
+      "endDate": "2021-12",
+      "summary": "Wrote and delivered laboratory curriculum for animal training students."
+    },
+    {
+      "name": "Animal Behavioral Wellness",
+      "position": "Founder, Animal Behavior Consultant",
+      "location": "United States, Italy, Austria",
+      "startDate": "2010-02",
+      "endDate": "2021-12",
+      "summary": "Managed employees, operations, and client relationships while delivering tailored solutions—honing expertise in stakeholder engagement, risk assessment, and ethical decision-making."
     }
   ],
   "volunteer": [
@@ -51,7 +68,8 @@
       "location": "Remote, USA",
       "url": "https://www.erdosinstitute.org/",
       "area": "Data Science",
-      "studyType": "Certificate Program"
+      "studyType": "Certificate Program",
+      "courses": ["Data Science Boot Camp", "People Oriented Project Management", "Topological Data Analysis"]
     }
   ],
   
@@ -130,10 +148,9 @@
   "projects": [
     {
       "name": "Ethical Matrix and Discussion Guide for Behavioral Euthanasia of Companion Animals",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Ethical Decision Making", "Participatory Ethical Tool"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "summary": "Developed a novel tool to conduct ethical decision making and reduce moral stress in veterinarians and adjacent caregivers.",
+      "highlights": ["Stakeholder Analysis", "Harm Assessment", "Ethical Decision Making", "Participatory Ethical Tool"],
+      "startDate": "2020-01",
       "url": "https://example.com"
     }
   ]
