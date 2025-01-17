@@ -15,7 +15,7 @@
   "work": [
     {
       "name": "Ethoscope",
-      "position": "Responible Technology Consultant",
+      "position": "Responsible Technology Consultant",
       "startDate": "2024-03",
       "summary": "I empower organizations to analyze data, audit technology for fairness, and implement ethical, responsible governance."
     }
@@ -45,18 +45,33 @@
       "url": "https://umn.edu",
       "area": "Biology",
       "studyType": "BS"
+    },
+    {
+      "institution": "The Erdős Institute",
+      "location": "Remote, USA",
+      "url": "https://www.erdosinstitute.org/",
+      "area": "Data Science",
+      "studyType": "Certificate Program"
     }
-
   ],
+  
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+      "title": "Responsible AI Governance Maturity Model Hackathon Winner",
+      "date": "2024-03",
+      "awarder": "All Tech is Human and TechBetter",
+      "url": "https://alltechishuman.org/all-tech-is-human-blog/responsible-ai-governance-maturity-model-2024-report",
+      "summary": "Applied AI ethics skills to evaluate the AI governance of a company using public documentation."
+    }, 
+    {
+      "title": "Data Science Portfolio Project with Distinction",
+      "date": "2023-12",
+      "awarder": "The Erdős Institute",
+      "url": "https://www.erdosinstitute.org/certificates/fall-2023/data-science-boot-camp/katherine-grillaert",
+      "summary": "Built a machine learning model to predict preterm birth using diverse data."
+    } 
   ],
+
   "certificates": [
     {
       "name": "ForHumanity Certified Auditor EU AI Act",
@@ -114,9 +129,9 @@
   
   "projects": [
     {
-      "name": "Quantum Computing",
+      "name": "Ethical Matrix and Discussion Guide for Behavioral Euthanasia of Companion Animals",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": ["Ethical Decision Making", "Participatory Ethical Tool"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
