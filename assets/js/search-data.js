@@ -381,9 +381,9 @@ ninja.data = [{
           description: "Our project harnesses machine learning techniques to predict preterm birth using electronic health records. This data intersects with social determinants of health, reflecting some of the interactions contributing to preterm birth. Recognizing that under-representation in healthcare research perpetuates racial and ethnic health disparities, we take care to use diverse data to ensure equitable model performance across underrepresented populations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-summary-of-ethical-risk-for-countering-the-financing-of-terrorism-algorithms",
+          title: 'Summary of Ethical Risk for Countering the Financing of Terrorism Algorithms',
+          description: "CFT algorithms enhance financial crime detection but require inclusive, bias-aware strategies to prevent harm to vulnerable populations and ensure equitable access to financial systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
