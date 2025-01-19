@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Summary of Ethical Risk for 
-Countering the Financing of Terrorism Algorithms
+title: Summary of Ethical Risk for Countering the Financing of Terrorism Algorithms
 description: CFT algorithms enhance financial crime detection but require inclusive, bias-aware strategies to prevent harm to vulnerable populations and ensure equitable access to financial systems.
 img: assets/img/watermelon.jpg
 importance: 1
-category: ethics & algorithms
+category: 
 ---
 
 
@@ -14,7 +13,7 @@ Countering the Financing of Terrorism (CFT) algorithms, utilized by governments 
 
 ## Overview of Algorithmic System 
 The United States Treasury partners with key government agencies and private financial institutions to strengthen efforts in [Countering the Financing of Terrorism](https://home.treasury.gov/about/offices/terrorism-and-financial-intelligence/office-of-terrorist-financing-and-financial-crimes) (CFT) and promotes the [adoption of artificial intelligence systems](https://home.treasury.gov/system/files/136/Artificial-Intelligence-in-Financial-Services.pdf) to enhance capabilities. Additionally, they are committed to implementing standards set by the [Financial Action Task Force](https://home.treasury.gov/policy-issues/terrorism-and-illicit-finance/financial-action-task-force) (FATF), an international body that promotes financial system safeguarding policies, including [recommendations on AI use](https://www.fatf-gafi.org/en/publications/Digitaltransformation/Digital-transformation.html) in CFT. 
- 
+
 Such AI models [detect behavioral patterns](https://www2.deloitte.com/content/dam/Deloitte/jp/Documents/financial-services/bk/en-the-case-for-artificial-intelligence-in-combating-money-laundering-and-terrorist-financing.pdf) that may be correlated with fraudulent or illegal activity by processing large amounts of data regarding the business portfolio and operations, financial crime typologies, and transactional data. Algorithms used by these models may also incorporate aspects of [Perpetual Know Your Customer](https://www.acams.org/en/best-practice-guide-the-path-to-perpetual-kyc#benefits-783e4ff5) (pKYC) or [Perpetual Client Risk Assessment](https://fintech.global/2024/09/23/how-fincens-new-aml-cft-proposal-leverages-ai-for-better-compliance/) (pCRA), processes which dynamically assess client profiles and risk. In response to data privacy concerns, some AI financial tools are testing the use of [federated learning](https://developer.nvidia.com/blog/using-federated-learning-to-bridge-data-silos-in-financial-services/), which allows for the model to be trained on decentralized personal data. 
 
 CFT algorithms detect anomalous activity patterns and then flag them for review by a human-in-the-loop who must contextualize and interpret the output. [Escalations](https://www2.deloitte.com/content/dam/Deloitte/jp/Documents/financial-services/bk/en-the-case-for-artificial-intelligence-in-combating-money-laundering-and-terrorist-financing.pdf) may include investigation, restricted access to or termination of financial services, and notification of relevant authorities. 
