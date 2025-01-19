@@ -4,7 +4,7 @@ title: The Silent Emergency - Predicting Preterm Birth
 description: Our project harnesses machine learning techniques to predict preterm birth using electronic health records. This data intersects with social determinants of health, reflecting some of the interactions contributing to preterm birth. Recognizing that under-representation in healthcare research perpetuates racial and ethnic health disparities, we take care to use diverse data to ensure equitable model performance across underrepresented populations.
 img: assets/img/motherhood.jpg
 importance: 2
-category: ethics & data
+category: ethics & algorithms
 giscus_comments: false
 ---
 
