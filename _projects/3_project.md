@@ -3,7 +3,7 @@ layout: page
 title: Summary of Ethical Risk for Countering the Financing of Terrorism Algorithms
 description: CFT algorithms enhance financial crime detection but require inclusive, bias-aware strategies to prevent harm to vulnerable populations and ensure equitable access to financial systems.
 img: assets/img/watermelon.jpg
-importance: 1
+importance: 5
 category: 
 ---
 
