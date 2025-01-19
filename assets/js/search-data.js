@@ -386,9 +386,9 @@ ninja.data = [{
           description: "CFT algorithms enhance financial crime detection but require inclusive, bias-aware strategies to prevent harm to vulnerable populations and ensure equitable access to financial systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-ethical-risk-for-countering-the-financing-of-terrorism-algorithms",
+          title: 'Ethical Risk for Countering the Financing of Terrorism Algorithms',
+          description: "CFT algorithms enhance financial crime detection but require inclusive, bias-aware strategies to prevent harm to vulnerable populations and ensure equitable access to financial systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
