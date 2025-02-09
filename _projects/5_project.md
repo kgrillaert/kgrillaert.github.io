@@ -1,7 +1,7 @@
 ---
 layout: page
 title: United States AI Policy
-description: published with Tech Policy Press
+description: This AI policy piece discusses the risks of allowing states to drive AI governance, rather than a cohesive central policy and strong U.S. partnership abroad. 
 img: assets/img/jeanfrancoismillet.jpg
 importance: 3
 category: policy 
