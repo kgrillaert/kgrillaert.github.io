@@ -391,9 +391,9 @@ ninja.data = [{
           description: "CFT algorithms enhance financial crime detection but require inclusive, bias-aware strategies to prevent harm to vulnerable populations and ensure equitable access to financial systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-united-states-ai-policy",
-          title: 'United States AI Policy',
-          description: "This AI policy piece discusses the risks of allowing states to drive AI governance, rather than a cohesive central policy and strong U.S. partnership abroad.",
+            },},{id: "projects-risks-of-state-led-ai-governance-in-a-federal-policy-vacuum",
+          title: 'Risks of State-Led AI Governance in a Federal Policy Vacuum',
+          description: "Feb 6, 2025 / This piece discusses the risks of allowing states to drive AI governance, rather than a cohesive central policy and strong U.S. partnership abroad.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
