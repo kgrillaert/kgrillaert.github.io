@@ -11,3 +11,4 @@ category: policy
 
 Wm Matthew Kennedy, Chinasa T. Okolo, Ph.D., and I ask, what are the risks of allowing–or forcing–US states to play a greater role in creating #AI policy? Read at [Tech Policy Press](https://www.techpolicy.press/risks-of-state-led-ai-governance-in-a-federal-policy-vacuum/).
 
+
