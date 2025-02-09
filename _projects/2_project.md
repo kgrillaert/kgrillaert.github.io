@@ -8,18 +8,18 @@ category: ethics & algorithms
 giscus_comments: false
 ---
 
-[Erdős Institute](https://www.erdosinstitute.org/) | [Data Science Boot Camp Fall 2023](https://www.erdosinstitute.org/programs/fall-2023/data-science-boot-camp)
+>[Erdős Institute](https://www.erdosinstitute.org/) | [Data Science Boot Camp Fall 2023](https://www.erdosinstitute.org/programs/fall-2023/data-science-boot-camp)
+>
+>- View our [5-minute recorded presentation](https://www.erdosinstitute.org/project-database/fall-2023/data-science-boot-camp/the-silent-emergency---predicting-preterm-birth)
+>- Download our [Executive Summary](https://github.com/kgrillaert/preterm_birth/blob/main/06.Docs/Preterm_Birth_Exec%20_Summary.pdf)
+>- Visit our [GitHub repo](https://github.com/kgrillaert/preterm_birth)
 
-- View our [5-minute recorded presentation](https://www.erdosinstitute.org/project-database/fall-2023/data-science-boot-camp/the-silent-emergency---predicting-preterm-birth)
-- Download our [Executive Summary](https://github.com/kgrillaert/preterm_birth/blob/main/06.Docs/Preterm_Birth_Exec%20_Summary.pdf)
-- Visit our [GitHub repo](https://github.com/kgrillaert/preterm_birth)
-
-Team Members:
-- [Katherine Grillaert](https://www.linkedin.com/in/kgrillaert/)
-- [Divya Joshi](https://www.linkedin.com/in/divya-joshi-phd-candidate/)
-- [Noah Rahman](https://www.linkedin.com/in/noah-rahman-01504257/)
-- [Alex Sutherland](https://www.linkedin.com/in/alexander-sutherland-math/)
-- [Kristina Zvolanek](https://www.linkedin.com/in/kristina-zvolanek/)
+>Team Members:
+>- [Katherine Grillaert](https://www.linkedin.com/in/kgrillaert/)
+>- [Divya Joshi](https://www.linkedin.com/in/divya-joshi-phd-candidate/)
+>- [Noah Rahman](https://www.linkedin.com/in/noah-rahman-01504257/)
+>- [Alex Sutherland](https://www.linkedin.com/in/alexander-sutherland-math/)
+>- [Kristina Zvolanek](https://www.linkedin.com/in/kristina-zvolanek/)
 
 ### Project Description
 
