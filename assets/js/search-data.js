@@ -391,9 +391,9 @@ ninja.data = [{
           description: "CFT algorithms enhance financial crime detection but require inclusive, bias-aware strategies to prevent harm to vulnerable populations and ensure equitable access to financial systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-united-states-ai-policy",
+          title: 'United States AI Policy',
+          description: "published with Tech Policy Press",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
