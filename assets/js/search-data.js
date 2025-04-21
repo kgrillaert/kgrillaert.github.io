@@ -368,10 +368,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-ll-be-presenting-my-paper-risks-to-financial-inclusion-by-anti-money-laundering-and-financial-counterterrorism-algorithms-at-ieee-ethics-2025-on-june-9th-2025-at-northwestern-university-in-illinois",
-          title: 'I’ll be presenting my paper “Risks to Financial Inclusion by Anti-Money Laundering and...',
+          section: "News",},{id: "news-ieee-paper-presentation-on-algorithmic-ethics-and-financial-inclusion",
+          title: 'IEEE Paper presentation on algorithmic ethics and financial inclusion',
           description: "",
-          section: "News",},{id: "projects-ethical-analysis-tool-for-behavioral-euthanasia-of-companion-animals",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-ethical-analysis-tool-for-behavioral-euthanasia-of-companion-animals",
           title: 'Ethical Analysis Tool for Behavioral Euthanasia of Companion Animals',
           description: "This is a participatory ethical tool that brings together stakeholders for an ethical assessment regarding behavioral euthanasia of companion animals. The tool faciliates a discussion of all relevant moral aspects. The tool is designed to guide, but not dictate, a moral outcome, and to reduce moral stress in animal caretakers including veterinarians, animal guardians, humane societies, and resuce organizations.",
           section: "Projects",handler: () => {
