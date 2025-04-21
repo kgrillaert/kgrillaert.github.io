@@ -360,16 +360,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-ll-be-presenting-my-paper-risks-to-financial-inclusion-by-anti-money-laundering-and-financial-counterterrorism-algorithms-at-ieee-ethics-2025-on-june-9th-2025-at-northwestern-university-in-illinois",
+          title: 'I’ll be presenting my paper “Risks to Financial Inclusion by Anti-Money Laundering and...',
           description: "",
           section: "News",},{id: "projects-ethical-analysis-tool-for-behavioral-euthanasia-of-companion-animals",
           title: 'Ethical Analysis Tool for Behavioral Euthanasia of Companion Animals',
