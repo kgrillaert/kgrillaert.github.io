@@ -360,15 +360,15 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-atih-x-finnish-consulate-rai-multiskateholder-collaboration",
+    },{id: "news-atih-x-finnish-consulate-rai-multiskateholder-collaboration",
           title: 'ATIH x Finnish Consulate - RAI Multiskateholder Collaboration',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-ieee-paper-presentation-on-algorithmic-ethics-and-financial-inclusion",
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-ieee-paper-presentation-on-algorithmic-ethics-and-financial-inclusion",
           title: 'IEEE Paper presentation on algorithmic ethics and financial inclusion',
           description: "",
           section: "News",handler: () => {
