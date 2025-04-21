@@ -365,10 +365,7 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-ieee-paper-presentation-on-algorithmic-ethics-and-financial-inclusion",
+            },},{id: "news-ieee-paper-presentation-on-algorithmic-ethics-and-financial-inclusion",
           title: 'IEEE Paper presentation on algorithmic ethics and financial inclusion',
           description: "",
           section: "News",handler: () => {
