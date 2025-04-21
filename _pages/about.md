@@ -22,7 +22,7 @@ Katherine is a multi-disciplinarian with expertise in applied ethics, AI/ML deve
 
 An EU AI Act auditor certified by [ForHumanity](https://www.forhumanity.dev), she’s dedicated to ensuring that AI systems align with ethical standards. Curiousity-driven at her core, Katherine thrives on the intersection of tech and ethics. She loves solving complex problems, collaborating with others, and chasing down innovative, wild ideas that have meaningful impact. 
 
-Katherine is a [Fellow]([https://www.forhumanity.dev)](https://forhumanity.center/forhumanity-fellows/)with ForHumanity. She crafts [auditable schemes](https://forhumanity.center/projects/core-aaa-system-governance/)for AI system auditing, and leads volunteers in the [Risk Management Policy Accelerator](https://forhumanity.center/projects/ai-policy-accelerator/). 
+Katherine is a [Fellow](https://forhumanity.center/forhumanity-fellows/) with ForHumanity. She crafts [auditable schemes](https://forhumanity.center/projects/core-aaa-system-governance/) for AI system auditing, and leads volunteers in the [Risk Management Policy Accelerator](https://forhumanity.center/projects/ai-policy-accelerator/). 
 
 
 
